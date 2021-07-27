@@ -1,2 +1,2 @@
-# gedicht-bung
+# gedicht-uebung
 Gedicht
